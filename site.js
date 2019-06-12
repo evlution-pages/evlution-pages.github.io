@@ -12,7 +12,7 @@ $(function () {
   $("body").css("visibility", "visible");
   $('.tooltipped').tooltip();
   $('.sidenav').sidenav();
-  $('img').addClass('responsive-img');
+
 });
 
 
