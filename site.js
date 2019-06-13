@@ -13,6 +13,8 @@ $(function () {
   $('.tooltipped').tooltip();
   $('.sidenav').sidenav();
   $('img').addClass("responsive-img")
+
+  $('.section img').addClass("story-img");
 });
 
 

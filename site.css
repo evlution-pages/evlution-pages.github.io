@@ -48,8 +48,13 @@ p {
 }
 
 .story-icon {
-    max-height: 100px;
+    max-height: 70px;
     padding-right: 10px;
+}
+
+.story-img {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 
