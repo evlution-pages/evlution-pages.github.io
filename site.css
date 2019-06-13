@@ -14,7 +14,7 @@ body {
 }
 
 .logo {
-    height: 55px;
+    max-height: 55px;
     padding-left: 10px;
 }
 
@@ -48,7 +48,7 @@ p {
 }
 
 .story-icon {
-    height: 70px;
+    max-height: 100px;
     padding-right: 10px;
 }
 
