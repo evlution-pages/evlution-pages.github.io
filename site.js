@@ -7,7 +7,7 @@ $(function () {
 
 
   $(".nav-wrapper").addClass("white black-text")
-  $(".btn").addClass("blue darken-3 white-text");
+  $(".btn").addClass("deep-orange darken-3 white-text");
 
   $("body").css("visibility", "visible");
   $('.tooltipped').tooltip();
