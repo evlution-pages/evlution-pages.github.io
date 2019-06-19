@@ -89,3 +89,8 @@ p {
 #mobile-menu i {
     color: #D35400;
 }
+
+.twitter-tweet {
+    width: 100%;
+    height: auto;
+}

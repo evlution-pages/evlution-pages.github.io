@@ -15,6 +15,8 @@ $(function () {
   $('img').addClass("responsive-img")
 
   $('.section img').addClass("story-img");
+
+  $('twitter-widget').addClass("center-align");
 });
 
 
