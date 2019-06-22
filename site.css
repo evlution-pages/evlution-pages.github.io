@@ -4,6 +4,11 @@ body {
 
 }
 
+.story-para {
+    font-family: 'Source Serif Pro',
+        serif;
+}
+
 .collapsed {
     padding-bottom: 40px;
 }
